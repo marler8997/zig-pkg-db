@@ -1,0 +1,1 @@
+archive https://ziglang.org/builds/zig-${BUILD_HOST_ZIG_BINARY_PLATFORM}-${CUSTOM_VERSION}${BUILD_HOST_ZIG_ARCHIVE_EXT}
